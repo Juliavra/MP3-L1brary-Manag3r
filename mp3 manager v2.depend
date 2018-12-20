@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1545317088 source:c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"data.h"
+	"linkedlist.h"
+	"controller.h"
+
+1545313229 c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\data.h
+	"linkedlist.h"
+
+1545311062 c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\linkedlist.h
+
+1545311536 c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1545311315 source:c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\data.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"data.h"
+	"linkedlist.h"
+
+1545312979 source:c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"data.h"
+	"linkedlist.h"
+
+1545314644 source:c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"linkedlist.h"
+
+1545316804 source:c:\utn\mp3 l1brary manag3r\v 2.0\mp3 manager v2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"data.h"
+	<conio.h>
+	<string.h>
+	"controller.h"
+
